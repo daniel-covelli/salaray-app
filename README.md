@@ -10,4 +10,4 @@ Build on MERN stack:
   - React
   - Node
   
-  Walkthrough: https://www.youtube.com/watch?v=35BSnmTbjlE
+Project Source: https://github.com/noobcoder1137/MERN-Stack-Tutorial-NoobCoder
