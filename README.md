@@ -10,4 +10,11 @@ Build on MERN stack:
   - React
   - Node
   
+Global Dependencies
+  - Nodemon
+  - Concurrently
+
+Run "npm run install-all" to install dependencies
+To run application in development mode run "npm run dev"
+  
 Project Source: https://github.com/noobcoder1137/MERN-Stack-Tutorial-NoobCoder
