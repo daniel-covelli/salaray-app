@@ -1,4 +1,4 @@
-# salaray-app 🤑
+# salary-app 🤑
 
 This app logs a user's name, job title, and salary.
 
