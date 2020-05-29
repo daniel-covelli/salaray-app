@@ -1,6 +1,6 @@
 # salaray-app 🤑
 
-This app logs users names, job titles, and salary.
+This app logs user names, job titles, and salary.
 
 link: https://salary-app-mern.herokuapp.com/
 
